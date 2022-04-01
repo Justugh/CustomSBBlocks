@@ -1,0 +1,9 @@
+name: CustomSBBlocks
+version: '${project.version}'
+main: net.justugh.customsbblocks.CustomSBBlocks
+api-version: 1.18
+depend: [ SuperiorSkyblock2, JustAPI ]
+authors: [ Justugh ]
+commands:
+  customsbblocks:
+    aliases: [cstmb]

@@ -1,0 +1,20 @@
+################################
+# Begin Database Configuration #
+################################
+
+# All SQL data.
+SQL-Credentials:
+  Address: "127.0.0.1"
+  Port: "3306"
+  Database: "Example"
+  Username: "Admin"
+  Password: "Password"
+
+#################
+# Custom Blocks #
+#################
+Custom-Blocks:
+  Example-TNT:
+    Value: 100
+    Material: "TNT"
+    Name: "&eExample TNT"
